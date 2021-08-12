@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página SORIA!"
 ---
-Tu texto
+Es un momazo
 Utiliza la flecha hacia la izquierda para volver!
